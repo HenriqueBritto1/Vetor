@@ -3,12 +3,12 @@ import java.util.Scanner;
 
 public class Vetor {
 	private int[] vet;
-    Scanner ler = new Scanner(System.in);
+    	Scanner ler = new Scanner(System.in);
     
-    public Vetor(int n){
-        vet = new int[n];
-    }
-    public int[] getVet() {
+    	public Vetor(int n){
+        	vet = new int[n];
+    	}
+    	public int[] getVet() {
 		return vet;
 	}
 
