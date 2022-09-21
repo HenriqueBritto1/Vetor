@@ -7,10 +7,10 @@ public class Main {
 		int n = ler.nextInt();
 		
 		Vetor vet1 = new Vetor(n);
-        vet1.leVetor("V");
-        vet1.imprimeVetor("V");
-        vet1.somaElementos();
-        vet1.menorElemento();
+        	vet1.leVetor("V");
+        	vet1.imprimeVetor("V");
+        	vet1.somaElementos();
+        	vet1.menorElemento();
         
 	}
 
